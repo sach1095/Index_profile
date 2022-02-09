@@ -15,7 +15,7 @@
 <img alt="C" src="https://img.shields.io/badge/C-222222.svg?&style=flat&logo=C&logoColor=A8B9CC" /></a>
 <img alt="CPP" src="https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=flat&logo=C%2B%2B&logoColor=FFFFFF" /></a>
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
-<img alt="css" src="https://img.shields.io/badge/-CSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="css" src="https://img.shields.io/badge/-CSS-green?style=flat-square&logo=css3&logoColor=white" />
 
 ### **Langues en cour :**
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
