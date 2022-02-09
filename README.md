@@ -1,10 +1,9 @@
-# 
-<p align="center">
-  <img border-radius: 30px; src="https://github.com/sach1095/sach1095/blob/master/imame_profil_cv.jpeg" alt="Sacha Baranes" height="200" style="margin-right : 20px"/ >
+# <p align="center">
+  <img src="https://github.com/sach1095/sach1095/blob/master/imame_profil_cv.jpeg" alt="Sacha Baranes" height="200" style="margin-right : 20px"/ >
   <img src="https://github-readme-stats.vercel.app/api?username=sach1095&show_icons=true&theme=graywhite" alt="Statistiques Github" />
 </p>
 <p style="text-align: center;">Hello, je suis Sacha
-### <p style="text-align: center;">** Un développeur passionné et curieux actuellement en etude a l'école <img  height="30" width="180" src="https://discovery.42lyon.fr/static/images/logos/42/logo_42_white.png" alt="42Lyon" /> <br>
+<p style="text-align: center;">** Un développeur passionné et curieux actuellement en etude a l'école <img  height="30" width="180" src="https://discovery.42lyon.fr/static/images/logos/42/logo_42_white.png" alt="42Lyon" /> <br>
 ------
 
 - 🔭 Je travaille actuellement sur **un logiciel de comptabilité et de gestion performant**.
