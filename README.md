@@ -7,9 +7,9 @@
 <p style="text-align: center;">** Un développeur passionné et curieux actuellement en etude a l'école <img  height="30" width="180" src="https://discovery.42lyon.fr/static/images/logos/42/logo_42_white.png" alt="42Lyon" /> <br>
 ------
 
-- 🔭 Je travaille actuellement sur **un logiciel de comptabilité et de gestion performant**.
+- 🔭 Je travaille actuellement a crée un **logiciel de chat irc**.
 
-- 🌱 J'apprends actuellement **Rust et Kubernetes**
+- 🌱 J'apprends actuellement **JavaScript**
 
 ### **Langues Maîtriser :**
 <img alt="C" src="https://img.shields.io/badge/C-222222.svg?&style=flat&logo=C&logoColor=A8B9CC" /></a>
