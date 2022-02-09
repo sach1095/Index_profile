@@ -24,7 +24,7 @@
 
 ------------
 
-### **<img height="32" width="32" src="https://simpleicons.org/icons/42.svg"/> Lien vers mon profil :**
+### Lien vers mon profil :
 [![Carte de profil 42](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&leet_logo=hide&login=sbaranes)](https://github.com/mohouyizme/1337-readme)
 ---------------
 ### **Où me trouver :**
