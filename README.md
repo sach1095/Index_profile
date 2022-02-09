@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sach1095&show_icons=true&theme=graywhite" alt="Statistiques Github" />
 </p>
 <p style="text-align: center;">Hello, je suis Sacha
-<p style="text-align: center;">** Un développeur passionné et curieux actuellement en etude a l'école <img  height="30" width="180" src="https://github.com/sach1095/sach1095/blob/master/42.jpeg" alt="42Lyon" /> <br>
+<p style="text-align: center;">** Un développeur passionné et curieux actuellement en etude a l'école <img  height="30" width="180" src="https://github.com/sach1095/sach1095/blob/master/42.pnj" alt="42Lyon" /> <br>
 ------
 
 - 🔭 Je travaille actuellement a crée un **logiciel de chat irc**.
