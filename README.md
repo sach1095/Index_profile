@@ -8,22 +8,28 @@
  
 ------
 
-- 🔭 Je travaille actuellement a crée un **logiciel de chat irc**.
+- 🔭 Je suis entrain de créer un logiciel de **Chat IRC (Internet Relay Chat)**.
 
-- 🌱 J'apprends actuellement **JavaScript**
+- 🌱 J'apprends actuellement le **JavaScript**
 
-### **Langues Maîtriser :**
+### **Je maitrise :**
 <img alt="C" src="https://img.shields.io/badge/C-222222.svg?&style=flat&logo=C&logoColor=A8B9CC" /></a>
 <img alt="CPP" src="https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=flat&logo=C%2B%2B&logoColor=FFFFFF" /></a>
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
 <img alt="css" src="https://img.shields.io/badge/-CSS-green?style=flat-square&logo=css3&logoColor=white" />
 <img alt="scss" src="https://img.shields.io/badge/-SASS-purple?style=flat-square&logo=sass&logoColor=white" />
 
-### **Langues en cour :**
+### **J'apprends :**
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
 
-### **Outils:**
-<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white" /> <img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=flat&logo=Vim&logoColor=white" /> <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-147EFB" /> <img alt="Visual" src="https://img.shields.io/badge/-Visual-6C33AF?style=flat&logo=visual%20studio&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" /> <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" /> <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white" />
+### **Outils :**
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white" />
+<img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=flat&logo=Vim&logoColor=white" />
+<img alt="Xcode" src="https://img.shields.io/badge/-Xcode-147EFB" />
+<img alt="Visual" src="https://img.shields.io/badge/-Visual-6C33AF?style=flat&logo=visual%20studio&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
+<img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white" />
 
 ------------
 
