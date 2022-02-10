@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="https://github.com/sach1095/sach1095/blob/master/2.png" alt="Sacha Baranes" height="200" style="margin-right: 20px; border-radius: 50px;" / >
-  <img src="https://github-readme-stats.vercel.app/api?username=sach1095&show_icons=true&theme=graywhite" alt="Statistiques Github" />
-</p>
-<p style="text-align: center;">Hello, je suis Sacha
-<p style="text-align: center;">Un développeur passionné et curieux actuellement en etude a l'école 42 - <img  height="50" width="200" src="https://github.com/sach1095/sach1095/blob/master/42.png" alt="42Lyon" /> 
+<p style="text-align: center;">***Hello, je suis Sacha***
+<p style="text-align: center;">*Un développeur passionné et curieux actuellement en etude a l'école 42* - <img  height="50" width="200" src="https://github.com/sach1095/sach1095/blob/master/42.png" alt="42Lyon" /> 
  
  
 ------
