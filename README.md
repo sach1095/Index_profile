@@ -24,13 +24,15 @@
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
 
 ### **Outils :**
+<p>
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white" />
 <img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=flat&logo=Vim&logoColor=white" />
 <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-147EFB" />
 <img alt="Visual" src="https://img.shields.io/badge/-Visual-6C33AF?style=flat&logo=visual%20studio&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
 <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white" />
-
+</p>
+  
 ------------
 
 ### Lien vers mon profil :
