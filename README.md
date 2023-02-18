@@ -18,7 +18,7 @@
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
 
 ### **J'apprends :**
-<img alt="java" src="https://img.shields.io/badge/-JAVA-purple?style=flat-square&logo=java&logoColor=white" />
+<img alt="java" src="[https://img.shields.io/badge/-JAVA-purple?style=flat-square&logo=java&logoColor=white](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg)" />
 
 ### **Outils :**
 <p>
