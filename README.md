@@ -4,9 +4,9 @@
  
 ------
 
-- 🔭 Je suis entrain de créer un logiciel de **Chat IRC (Internet Relay Chat)**.
+- 🔭 Je suis entrain de créer un StarterPack pour Angular/Firebase.
 
-- 🌱 J'apprends actuellement le **JavaScript**
+- 🌱 J'apprends actuellement le **JavaScript** et le **Java**
 
 ### **Je maitrise :**
 <img alt="C" src="https://img.shields.io/badge/C-222222.svg?&style=flat&logo=C&logoColor=A8B9CC" /></a>
