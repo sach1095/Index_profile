@@ -8,9 +8,13 @@
 
 - 🌱 J'apprends actuellement le **JavaScript** et le **Java**
 
-### **Je maitrise :**
-<img alt="C" src="https://img.shields.io/badge/C-222222.svg?&style=flat&logo=C&logoColor=A8B9CC" /></a>
-<img alt="CPP" src="https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=flat&logo=C%2B%2B&logoColor=FFFFFF" /></a>
+### **Je connais :**
+<img alt="C" src="https://img.shields.io/badge/C-222222.svg?&style=flat&logo=C&logoColor=A8B9CC" />
+<img alt="typescript"  src="https://img.shields.io/badge/-Typescript-6666ff?style=flat-square&logo=typescript&logoColor=0000ff" />
+<img alt="Angular" src="https://img.shields.io/badge/-Angular-2088FF?style=flat-square&logo=angular&logoColor=FF0000" />
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-0000e6?&style=flat&logo=flutter&logoColor=6666ff" />
+<img alt="CPP"  src="https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=flat&logo=C%2B%2B&logoColor=FFFFFF" />
+<img alt="C#" src="https://img.shields.io/badge/-C sharp-00599C?style=flat-square&logo=csharp&logoColor=green" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
 <img alt="css" src="https://img.shields.io/badge/-CSS-green?style=flat-square&logo=css3&logoColor=white" />
 <img alt="scss" src="https://img.shields.io/badge/-SASS-purple?style=flat-square&logo=sass&logoColor=white" />
