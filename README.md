@@ -10,6 +10,7 @@
 
 ### **Je connais :**
 <img alt="C" src="https://img.shields.io/badge/C-222222.svg?&style=flat&logo=C&logoColor=A8B9CC" />
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
 <img alt="typescript"  src="https://img.shields.io/badge/-Typescript-6666ff?style=flat-square&logo=typescript&logoColor=0000ff" />
 <img alt="Angular" src="https://img.shields.io/badge/-Angular-2088FF?style=flat-square&logo=angular&logoColor=FF0000" />
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-0000e6?&style=flat&logo=flutter&logoColor=6666ff" />
@@ -18,7 +19,7 @@
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
 <img alt="css" src="https://img.shields.io/badge/-CSS-green?style=flat-square&logo=css3&logoColor=white" />
 <img alt="scss" src="https://img.shields.io/badge/-SASS-purple?style=flat-square&logo=sass&logoColor=white" />
-[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=FFFFFF)
 
 ### **J'apprends :**
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
